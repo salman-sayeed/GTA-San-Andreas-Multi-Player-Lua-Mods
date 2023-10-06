@@ -1,0 +1,12 @@
+Name: Easy Animations v2.0 by [SALMAN]
+
+Easy Animation was my first mod. Finally i decided to update the mod. Don't worry its totally safe also the code is open.
+Enjoy. :)
+
+Install: Extract the Rar file copy the whole "moonloader" folder and paste the folder inside your main GTA folder.
+thats it noting else.
+
+Key: Use "Left Shift + X" or use the command "/Ani" to activate the window.
+
+Discord: autocorrect#7700
+       
